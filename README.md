@@ -1,0 +1,4 @@
+# REGRESSION--CLASSIFICATION
+Project in the range of regression
+1)
+2) RED WINE QUALITY PREDICTION
