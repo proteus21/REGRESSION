@@ -7,3 +7,4 @@ Fixed acidity, Volatile acidity, Citric acid, Residual sugar, Chlorides
 
 Free sulfur dioxide, Total sulfur dioxide, Density, pH, Sulfates, Alcohol
 
+<img src="https://th.bing.com/th/id/R.7f1c121441048dbab4a80a52fc954245?rik=JaWVR1lESPkBIw&riu=http%3a%2f%2fwww.evineyardapp.com%2fblog%2fwp-content%2fuploads%2f2015%2f05%2fred-wine.jpg&ehk=8uhdxNBhSSH2BIHt9P8zpNW4%2bVvG7aQKCiRaB1yYXN4%3d&risl=1&pid=ImgRaw&r=0" width="500" height ="300">
