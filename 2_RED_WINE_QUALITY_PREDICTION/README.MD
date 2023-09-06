@@ -4,14 +4,24 @@ For the purpose of this project, I converted the output to a binary output where
 The quality of a wine is determined by 11 input variables:
 
 Fixed acidity
+
 Volatile acidity
+
 Citric acid
+
 Residual sugar
+
 Chlorides
+
 Free sulfur dioxide
+
 Total sulfur dioxide
+
 Density
+
 pH
+
 Sulfates
+
 Alcohol
 
