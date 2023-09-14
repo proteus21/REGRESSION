@@ -4,6 +4,7 @@ In this example, we will take a medical insurance dataset, we will perform the v
 The next step is to build GUI interface with Streamlit server.
 
 
-Step 1)
-<img src="https://github.com/proteus21/COMPUTER-VISION/blob/main/4_Detection_image_Flask_Yolo/GUI/Flask1.JPG" width="300" height ="300">
+<img src="https://github.com/proteus21/REGRESSION--CLASSIFICATION/blob/main/3_Health%20_insurance_predict/Source/Insurance_1.JPG?raw=true" width="300" height ="300">
+
+<img src="https://github.com/proteus21/REGRESSION--CLASSIFICATION/blob/main/3_Health%20_insurance_predict/Source/Insurance_2.JPG?raw=true" width="300" height ="300">
 
