@@ -1,6 +1,6 @@
 HEALTH INSURANCE PREDICTION
 
-In this example, we will take a medical insurance dataset, we will perform the various steps required to predict the price of insurance a person will have to pay for a certain medical insurance. Dataset come from  Kaggle seite. 
+In this example, we will take a medical insurance dataset, that we will perform the various steps required to predict the price of insurance a person will have to pay for a certain medical insurance. Dataset come from  Kaggle seite. 
 The next step is to build GUI interface with Streamlit server.
 
 
