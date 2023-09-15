@@ -6,3 +6,5 @@ Project in the range of regression
 2) RED WINE QUALITY PREDICTION
 
 3) HEALTH INSURANCE PREDICTION |streamlit|
+
+4) CALORIES BURNED CALCULATOR |streamlit|
