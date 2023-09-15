@@ -8,3 +8,5 @@ Project in the range of regression
 3) HEALTH INSURANCE PREDICTION |streamlit|
 
 4) CALORIES BURNED CALCULATOR |streamlit|
+   
+5) STOCK MARKET INDEX |streamlit|
