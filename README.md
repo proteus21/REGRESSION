@@ -10,3 +10,6 @@ Project in the range of regression
 4) CALORIES BURNED CALCULATOR |streamlit|
    
 5) STOCK MARKET INDEX |streamlit|
+
+6) BMI CALCULATOR |FastAPI|
+
