@@ -13,3 +13,6 @@ Project in the range of regression
 
 6) BMI CALCULATOR |FastAPI|
 
+7) IRIS CLASSIFICATION |FastAPI|
+
+
