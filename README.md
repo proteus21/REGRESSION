@@ -15,4 +15,6 @@ Project in the range of regression
 
 7) IRIS CLASSIFICATION |FastAPI|
 
+8) EEG SIGNALS |ML Analyze|
+
 
