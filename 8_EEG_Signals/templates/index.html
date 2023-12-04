@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EEG seisure prediction</title>
+       <style>
+        .red-text {
+            color: red;
+        }
+        .green-text {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Choose EEG snippet from dataset from 0 to 11500</h1>
+    <form method="post" enctype="multipart/form-data">
+      <input type="number" name="file1">
+      <input type="submit">
+    </form>
+    <img src="static/signal.png" align="middle" />
+       {% if result is defined %}
+        {% if result == 'Yes, you might get seizure. It is dangeres for you' %}
+            <h1 class="red-text">{{ result }}</h1>
+        {% else %}
+            <h1 class="green-text">{{ result }}</h1>
+        {% endif %}
+    {% endif %}
+
+</body>
+</html>```
