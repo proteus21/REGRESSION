@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Recommender and Yield Prediction</title>
+</head>
+<body>
+<style>
+    /* Define a CSS class for red text */
+    .red-text {
+        color: red;
+    }
+    .green-text {
+        color: green;
+    }
+</style>
+    <h1> Crop Recommender and Yield Prediction</h1>
+
+    <h2> Enter Values as mentioned for recommendation: </h2>
+    <form action="/recommend" method="POST">
+        <input type="number" name="N" placeholder = "Nitrogen N" step="any">
+        
+
+        <input type="number" name="P" placeholder = "Phosphorus P" step="any">
+        
+
+        <input type="number" name="K" placeholder = "Potassium K" step="any">
+        
+
+        <input type="number" name="temperature" placeholder = "temperature T" step="any">
+        
+
+        <input type="number" name="humidity" placeholder = "humidity" step="any">
+        
+
+        <input type="number" name="ph" placeholder = "ph" step="any">
+        
+
+        <input type="number" name="rainfall" placeholder = "rainfall" step="any">
+
+        <input type="submit">
+    </form>
+    {% if rec %}
+        <h2>Recommended Crop: </h2>
+     <p class="green-text">{{rec}}</p>
+    {% endif %}
+
+
+
+
+    <h2> Enter Values as mentioned for yield: </h2>
+    <form action="/yield" method="POST">
+        <input type="text" name="Item" placeholder = "Item">
+        
+
+        <input type="number" name="Year" placeholder = "Year">
+        
+
+        <input type="number" name="average_rain_fall_mm_per_year" placeholder = "average_rain_fall_mm_per_year" step="any">
+        
+
+        <input type="number" name="pesticides_tonnes" placeholder = "pesticides_tonnes" step="any">
+        
+
+        <input type="number" name="avg_temp" placeholder = "avg_temp" step="any">
+
+        <input type="submit">
+    </form>
+    {% if yi %}
+        <h2>Crop yield: </h2>
+         <p class="red-text">{{ yi }}</p>
+    {% endif %}
+    
+</body>
+</html>
