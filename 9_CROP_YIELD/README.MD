@@ -4,5 +4,5 @@ The GUI  use  FLASK server
 
 Classification analyze
 
-<img src="https://github.com/proteus21/REGRESSION--CLASSIFICATION/blob/main/9_CROP_YIELD/app/GUI/Yield%20GUI.JPG?raw=true" width="600" height ="300">
+<img src="https://github.com/proteus21/REGRESSION--CLASSIFICATION/blob/main/9_CROP_YIELD/app/GUI/Yield%20GUI.JPG?raw=true" width="800" height ="300">
 
