@@ -17,6 +17,9 @@ Project in the range of regression
 
 8) EEG SIGNALS |ML Analyze|Flask GUI|
 
-9) CROP RECOMMENDATION AND YIELD PREDICTION | ML Analyze |Flask GUI|
+9) CROP RECOMMENDATION AND YIELD PREDICTION | ML Analyse |Flask GUI|
+
+10) ATTRITION RATE | ML Analyse |
+
 
 
