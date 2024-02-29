@@ -20,6 +20,8 @@ Project in the range of regression
 9) CROP RECOMMENDATION AND YIELD PREDICTION | ML Analyse |Flask GUI|
 
 10) ATTRITION RATE | ML Analyse |
+    
+11) GOLD PRICE PREDICTION |ML Analyse|
 
 
 
