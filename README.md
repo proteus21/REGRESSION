@@ -22,6 +22,9 @@ Project in the range of regression
 10) ATTRITION RATE | ML Analyse |
     
 11) GOLD PRICE PREDICTION |ML Analyse|
+    
+12) DIABETES PREDICTION WITH ANN |ML Analyse|
+    
 
 
 
