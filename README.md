@@ -24,7 +24,9 @@ Project in the range of regression
 11) GOLD PRICE PREDICTION |ML Analyse|
     
 12) DIABETES PREDICTION WITH ANN |ML Analyse|
-    
+
+13) HOTEL BOOKING DEMAND |ML Analyse|
+
 
 
 
