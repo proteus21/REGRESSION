@@ -26,6 +26,8 @@ Project in the range of regression
 12) DIABETES PREDICTION WITH ANN |ML Analyse|
 
 13) HOTEL BOOKING DEMAND |ML Analyse|
+    
+14) House Price Prediction | ML Analyse in R|
 
 
 
